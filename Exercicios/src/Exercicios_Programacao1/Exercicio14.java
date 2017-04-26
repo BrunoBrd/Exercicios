@@ -21,7 +21,6 @@ public class Exercicio14 {
 	int matriculaAluno;
 	int rg;
 	
-	
 	public int getRg() {
 		return rg;
 	}
