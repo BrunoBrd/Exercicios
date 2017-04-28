@@ -11,11 +11,17 @@ package Exercicios_Programacao1;
  */
 public class Exercicio15 {
 
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
+    
+    
+        public class Student {
+ 
+ 	private String nome;
+ 	private String endereco;
+ 	private int idade;
+ 	private float materias;
+ 	private String sala;
+ 	private Student[] amigos;
+ 	private int numero_estudante;
     }
     
 }
